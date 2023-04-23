@@ -1,0 +1,8 @@
+.cache
+.config
+venv
+.replit
+*.lock
+*.toml
+log
+*.nix
